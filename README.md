@@ -18,7 +18,7 @@
 - 💻 Data Analyst skilled in technologies like **SQL & Python**, and Visualization with **Power BI & Tableau**.
 - ☁️ Experienced in **Data Analysis**, building and maintaining **CI/CD pipelines** using GitHub Actions and working with tools like Docker and AWS.
 -   Cloud Enthusiast currently honing my skills in cloud related development.
--  ![GitHub stars](https://img.shields.io/github/stars/muthyalatharunteja/?style=flat-square)
+-  ![GitHub stars](https://img.shields.io/github/stars/muthyalatharunteja?style=flat-square)
 - 📫 How to reach me: **muthyalatharunteja@gmail.com**
 
 ---
