@@ -17,7 +17,8 @@
 - 🎓 Pursuing **Master's in Mathematical Modeling Simulation and Optimization** from University of Koblenz.
 - 💻 Data Analyst skilled in technologies like **SQL & Python**, and Visualization with **Power BI & Tableau**.
 - ☁️ Experienced in **Data Analysis**, building and maintaining **CI/CD pipelines** using GitHub Actions and working with tools like Docker and AWS.
-- Coloud Enthusiast currently honing my skills in cloud related development.
+-   Cloud Enthusiast currently honing my skills in cloud related development.
+-  ![GitHub stars](https://img.shields.io/github/stars/johndoe/my-awesome-project?style=flat-square)
 - 📫 How to reach me: **muthyalatharunteja@gmail.com**
 
 ---
